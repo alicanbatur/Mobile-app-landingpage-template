@@ -4,10 +4,10 @@
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
 title: Boosty - Boost Your Own Productivity
-email: restrictioniosapp@gmail.com
+email: alican@boostyapp.com
 description: Boosty is an assistant who help you to save time and money!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aquamarine-dasik-c89aa3.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://boostyapp.com" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 # twitter_username: sandochee
 github_username:  alicanbatur
